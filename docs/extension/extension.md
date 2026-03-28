@@ -12,7 +12,7 @@ Tipo: Levantamento baseado em observação e pesquisa aplicada
 Data: Outubro de 2025
 
 ## 📸 Evidências
-- Em anexo
+- Em anexo. Nossa organização é a comunidade, temos os vídeos, formulários de pesquisas e os termos de autorização de imagem.
 
 ## 📌 Problemas Identificados
 - Grande quantidade de animais sem adoção  
