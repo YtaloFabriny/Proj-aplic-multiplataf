@@ -12,17 +12,7 @@ Tipo: Levantamento baseado em observação e pesquisa aplicada
 Data: Outubro de 2025
 
 ## 📸 Evidências
-
-### 🐶 Abrigo de Animais
-Imagem que demonstra a realidade de um abrigo com diversos animais aguardando adoção:
-
-![Abrigo](abrigo_animais.jpg)
-
-### 🗄️ Estrutura de Dados
-Modelagem inicial baseada nas necessidades identificadas:
-
-![Banco Usuários](banco_usuarios.png)  
-![Banco Endereços](banco_enderecos.png)
+- Em anexo
 
 ## 📌 Problemas Identificados
 - Grande quantidade de animais sem adoção  
