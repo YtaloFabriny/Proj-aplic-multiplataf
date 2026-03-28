@@ -9,7 +9,7 @@ Foram analisadas situações reais de abrigos de animais, incluindo registros fo
 
 ## 📅 Interações
 Tipo: Levantamento baseado em observação e pesquisa aplicada  
-Data: Março de 2026  
+Data: Outubro de 2025
 
 ## 📸 Evidências
 
